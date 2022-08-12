@@ -10,7 +10,7 @@ npm install @prisma/clint
 
 npx prisma init
 
-## Crate Prisma Schema
+## Create Prisma Schema
 
 ## Migrate Schema
 
