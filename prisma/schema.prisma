@@ -16,3 +16,9 @@ model Feedback {
   name    String
   email   String
 }
+
+model User {
+  id        String @id @default(cuid())
+  username  String
+  useremail String
+}
